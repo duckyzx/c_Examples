@@ -1,6 +1,6 @@
 /* File Name: timeConverter.c
  *
- * Reads in up to 20 integers that represent the number of seconds ended by 0.
+ * Reads in up to 20 integers that represent the number of seconds and converts it into time in minutes (When the user is done entering values, enter a 0 to end)
  * 
  * Author: Amesh Pandey
  */
